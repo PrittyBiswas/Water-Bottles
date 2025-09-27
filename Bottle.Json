@@ -1,1 +1,32 @@
 
+{
+  "bottles": [
+    {
+      "id": 1,
+      "name": "Mineral Water Bottle",
+      "size_ml": 500,
+      "material": "Plastic",
+      "price_usd": 1.5,
+      "brand": "AquaPure",
+      "image_url": "https://example.com/images/mineral-water-bottle.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sports Water Bottle",
+      "size_ml": 750,
+      "material": "Stainless Steel",
+      "price_usd": 12.99,
+      "brand": "HydroFit",
+      "image_url": "https://example.com/images/sports-water-bottle.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Reusable Bottle",
+      "size_ml": 1000,
+      "material": "Glass",
+      "price_usd": 8.5,
+      "brand": "EcoSip",
+      "image_url": "https://example.com/images/reusable-bottle.jpg"
+    }
+  ]
+}
